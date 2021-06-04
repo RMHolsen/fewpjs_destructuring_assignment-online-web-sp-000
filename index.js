@@ -60,3 +60,5 @@ const { muppetName, color, song, job, partner } = muppet;
 
 const { song2, song4 } = nestedMuppet.album.theMuppetMovie;
 const { nestedJob, nestedPartner } = nestedMuppet;
+
+// No there is no trick to this, just use the nested method for the two nested things from the same section and the other for the other two things.
